@@ -1,1 +1,1 @@
-# KANMRI
+# KANDiffusion
